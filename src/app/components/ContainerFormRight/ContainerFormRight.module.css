@@ -1,0 +1,23 @@
+.formRightWrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.containerAmount {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    gap: 1rem;
+}
+
+
+.containerValues {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    gap: 0.5rem;
+  }
+
+
+  

@@ -1,0 +1,13 @@
+.singleContainerValue {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: space-between;
+}
+
+.singleContainerValue > div {
+  width: 25%;
+}
+
+.singleContainerValue > div > div {
+  width: 100%;
+}
